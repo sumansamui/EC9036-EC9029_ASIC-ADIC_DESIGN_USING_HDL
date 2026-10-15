@@ -1,6 +1,6 @@
-# EC9036 — ASIC Design using HDL (Verilog)
+# ADIC/ASIC Design using HDL (Verilog)
 
-Course repository for **EC9036 (PEL)**, *M.Tech. in Microelectronics & VLSI*, Department of Electronics & Communication Engineering.
+Course repository for **EC9036/EC9029**, *M.Tech. in Microelectronics & VLSI*, Department of Electronics & Communication Engineering.
 
 This repo contains:
 - **Syllabus & course outcomes**
